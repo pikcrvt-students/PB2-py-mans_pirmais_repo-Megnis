@@ -104,12 +104,12 @@ Rinda 2.            | Kolona 2.          | Kolona 3.
 
 
 Izveidot datorspeli:
-[x] ideja;
-[x] uzdevuma formulējums;
-[ ] plānojam kā strādās;
-[ ] programmas rakstīšana Python valodā (0. versija);
-[ ] testēšana;
-[ ] izmantojot lokālo GIT saglabā programmas 0. strādājošo versiju.
+- [x] ideja;
+- [x] uzdevuma formulējums;
+- [ ] plānojam kā strādās;
+- [ ] programmas rakstīšana Python valodā (0. versija);
+- [ ] testēšana;
+- [ ] izmantojot lokālo GIT saglabā programmas 0. strādājošo versiju.
 
 
 
